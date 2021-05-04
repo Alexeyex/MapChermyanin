@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapChermyanin</string>
+    <string name="edit_txt">Введите название объекта или координат</string>
+    <string name="search_btn">Ищем</string>
+</resources>
